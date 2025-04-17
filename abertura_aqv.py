@@ -1,0 +1,1 @@
+def openlog(testedotest.txt,r):
